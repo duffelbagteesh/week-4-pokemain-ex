@@ -1,0 +1,18 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "express demo",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Leticia Fernandes <leticia.fernandes@uconn.edu>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
